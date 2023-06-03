@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yandexsearch version="1.0">
+    <request>
+        <query>
+            yandex
+        </query>
+        <page>
+            0
+        </page>
+        <sortby order="descending" priority="no">
+            rlv
+        </sortby>
+        <maxpassages>
+            1
+        </maxpassages>
+        <groupings>
+            <groupby attr="" mode="flat" groups-on-page="10" docs-in-group="1" curcateg="-1"/>
+        </groupings>
+    </request>
+    <response date="20230516T153546">
+        <reqid>
+            1684251346127853-17579518905767341002-balancer-l7leveler-kubr-yp-vla-87-BAL-3549
+        </reqid>
+        <found priority="phrase">
+            392786
+        </found>
+        <found priority="strict">
+            392786
+        </found>
+        <found priority="all">
+            392786
+        </found>
+        <found-human>
+            Нашлось 393 тыс. ответов
+        </found-human>
+        <is-local>
+            no
+        </is-local>
+        <results>
+            <grouping attr="" mode="flat" groups-on-page="10" docs-in-group="1" curcateg="-1">
+                <page first="1" last="10">
+                    0
+                </page>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc id="Z798C0FA61259D2CD">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=ru&amp;la=1683950976&amp;text=yandex&amp;url=https%3A//ya.ru/&amp;l10n=ru&amp;mime=html&amp;sign=6d095e43c908aab78f49739a345b940a&amp;keyno=0
+                        </saved-copy-url>
+                        <url>https://2gis.ru/moscow/firm/70000001040507853</url>
+                        <domain>
+                            ya.ru
+                        </domain>
+                        <title>
+                            <hlword>
+                                Яндекс
+                            </hlword>
+                        </title>
+                        <modtime>
+                            20051128T052513
+                        </modtime>
+                        <size>
+                            340
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <passages>
+                            <passage>
+                                <hlword>
+                                    Яндекс
+                                </hlword>
+                                — поисковая система и интернет-портал. Поиск по интернету, Алиса и другие сервисы: на ya.ru есть карты, транспорт, погода, музыка, такси, переводчик...
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                ru
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc id="ZD089DFB0DFC192A2">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=ru&amp;la=1683950592&amp;text=yandex&amp;url=https%3A//browser.yandex.ru/&amp;l10n=ru&amp;mime=html&amp;sign=c2a765be2d8bf8991a3e1995f1f393d4&amp;keyno=0
+                        </saved-copy-url>
+                        <url>
+                            https://browser.yandex.ru/
+                        </url>
+                        <domain>
+                            browser.yandex.ru
+                        </domain>
+                        <title>
+                            Скачать
+                            <hlword>
+                                Яндекс
+                            </hlword>
+                            Браузер
+                        </title>
+                        <headline>
+                            Быстрый и безопасный браузер
+                            <hlword>
+                                Яндекса
+                            </hlword>
+                            для компьютера, смартфонов и планшетов на Android и iOS (iPhone и iPad). Ускоряет загрузку при медленном соединении, защищает от вирусов и...
+                        </headline>
+                        <modtime>
+                            20101023T010000
+                        </modtime>
+                        <size>
+                            186
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                ru
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc id="Z5B779511BC0F69C2">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=ru&amp;la=1683950592&amp;text=yandex&amp;url=https%3A//mail.yandex.ru/&amp;l10n=ru&amp;mime=html&amp;sign=6e2118175a7b0f93557254c8bf7a42c5&amp;keyno=0
+                        </saved-copy-url>
+                        <url>
+                            https://mail.yandex.ru/
+                        </url>
+                        <domain>
+                            mail.yandex.ru
+                        </domain>
+                        <title>
+                            Удобная
+                            <hlword>
+                                Яндекс
+                            </hlword>
+                            Почта с защитой от спама
+                        </title>
+                        <modtime>
+                            20040810T162415
+                        </modtime>
+                        <size>
+                            1651
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <passages>
+                            <passage>
+                                Завести почту на
+                                <hlword>
+                                    Яндексе
+                                </hlword>
+                                : надёжная защита от спама и вирусов, сортировка входящих по категориям, выделение писем от людей, 5 ГБ на
+                                <hlword>
+                                    Яндекс
+                                </hlword>
+                                Диске бесплатно...
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                ru
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc id="Z4D49570636CF6496">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=ru&amp;la=1683949184&amp;text=yandex&amp;url=https%3A//yandex.ru/all&amp;l10n=ru&amp;mime=html&amp;sign=fb703eee8c165e07132eafe994bd3f75&amp;keyno=0
+                        </saved-copy-url>
+                        <url>
+                            https://yandex.ru/all
+                        </url>
+                        <domain>
+                            yandex.ru
+                        </domain>
+                        <title>
+                            Все сервисы
+                            <hlword>
+                                Яндекса
+                            </hlword>
+                        </title>
+                        <modtime>
+                            20100110T082119
+                        </modtime>
+                        <size>
+                            1108
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <passages>
+                            <passage>
+                                <hlword>
+                                    Яндекс
+                                </hlword>
+                                Браузер Простой и безопасный интернет.
+                            </passage>
+                            <passage>
+                                С каналами и реакциями. ТелемостВидеовстречи по ссылке.
+                                <hlword>
+                                    Yandex
+                                </hlword>
+                                PayБыстрый и удобный способ оплаты от
+                                <hlword>
+                                    Яндекса
+                                </hlword>
+                                .
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                ru
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc id="ZBE84AB947040C29E">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=ru&amp;la=1683949056&amp;text=yandex&amp;url=https%3A//dzen.ru/yandex&amp;l10n=ru&amp;mime=html&amp;sign=eabde21c1a2833331f8c9be9bb8c694f&amp;keyno=0
+                        </saved-copy-url>
+                        <url>
+                            https://dzen.ru/yandex
+                        </url>
+                        <domain>
+                            dzen.ru
+                        </domain>
+                        <title>
+                            <hlword>
+                                Яндекс
+                            </hlword>
+                            | Дзен
+                        </title>
+                        <headline>
+                            Основная цель
+                            <hlword>
+                                Яндекса
+                            </hlword>
+                            — решать задачи людей. Любые задачи: в сети и в реальном мире, повседневные и редкие, бытовые и научные, за третий класс и за пятый курс. Именно для этого...
+                        </headline>
+                        <modtime>
+                            20171205T130000
+                        </modtime>
+                        <size>
+                            1302
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                ru
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc touchdown="РКН: сайт нарушает закон РФ" id="Z9CF9245088C0FC9D">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=ru&amp;la=1683949824&amp;text=yandex&amp;url=https%3A//www.youtube.com/channel/UCixlrqz8w-oa4UzdKyHLMaA&amp;l10n=ru&amp;mime=html&amp;sign=9e0c4bf49468e5410d10873841ef2f0a&amp;keyno=0
+                        </saved-copy-url>
+                        <url>
+                            https://www.youtube.com/channel/UCixlrqz8w-oa4UzdKyHLMaA
+                        </url>
+                        <domain>
+                            www.youtube.com
+                        </domain>
+                        <title>
+                            <hlword>
+                                Яндекс
+                            </hlword>
+                            - YouTube
+                        </title>
+                        <modtime>
+                            20130731T110631
+                        </modtime>
+                        <size>
+                            104
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <passages>
+                            <passage>
+                                На этом канале мы показываем и рассказываем, как живёт и работает
+                                <hlword>
+                                    Яндекс
+                                </hlword>
+                                . Каждый день наши технологии и сервисы решают множество задач людей.
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                ru
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc id="Z04D7F0CCECFFFC9A">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=ru&amp;la=1684219392&amp;text=yandex&amp;url=https%3A//yandex.ru/images&amp;l10n=ru&amp;mime=html&amp;sign=e0ab63386a003fe54c30ece961d5a5cc&amp;keyno=0
+                        </saved-copy-url>
+                        <url>
+                            https://yandex.ru/images
+                        </url>
+                        <domain>
+                            yandex.ru
+                        </domain>
+                        <title>
+                            <hlword>
+                                Яндекс
+                            </hlword>
+                            Картинки: поиск изображений в интернете, поиск по картинке
+                        </title>
+                        <headline>
+                            Забавные картинки, заставки для рабочего стола, схемы и иллюстрированные инструкции - ответы на ваши вопросы в виде изображений, Поиск по картинке и фото...
+                        </headline>
+                        <modtime>
+                            20120811T200702
+                        </modtime>
+                        <size>
+                            384
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                ru
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc id="ZF2774EED6990842E">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=en&amp;la=1683950464&amp;text=yandex&amp;url=https%3A//yandex.eu/&amp;l10n=ru&amp;mime=html&amp;sign=73f2686fecb3ae4ffef5a07c9ab7def5&amp;keyno=0
+                        </saved-copy-url>
+                        <url>
+                            https://yandex.eu/
+                        </url>
+                        <domain>
+                            yandex.eu
+                        </domain>
+                        <title>
+                            <hlword>
+                                Yandex
+                            </hlword>
+                            |
+                            <hlword>
+                                Яндекс
+                            </hlword>
+                        </title>
+                        <modtime>
+                            20110910T121119
+                        </modtime>
+                        <size>
+                            93
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <passages>
+                            <passage>
+                                <hlword>
+                                    Yandex
+                                </hlword>
+                                is a search engine and web portal.
+                                <hlword>
+                                    Yandex
+                                </hlword>
+                                offers internet search and other services like maps, navigator, public transport, taxi, weather, news, music, TV program, translation, online...
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                en
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc id="ZDED3DC3450168B85">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=ru&amp;la=1683942400&amp;text=yandex&amp;url=https%3A//yandex.ru/company/&amp;l10n=ru&amp;mime=html&amp;sign=49581c30f87644a065b9f08718dd1829&amp;keyno=0
+                        </saved-copy-url>
+                        <url>
+                            https://yandex.ru/company/
+                        </url>
+                        <domain>
+                            yandex.ru
+                        </domain>
+                        <title>
+                            Компания
+                            <hlword>
+                                Яндекс
+                            </hlword>
+                        </title>
+                        <modtime>
+                            20061115T010920
+                        </modtime>
+                        <size>
+                            412
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <passages>
+                            <passage>
+                                <hlword>
+                                    Яндекс
+                                </hlword>
+                                — это поисковая система и IT-компания, которая разрабатывает различные сервисы для России, Беларуси, Казахстана и Турции.
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                ru
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <group>
+                    <doccount>
+                        1
+                    </doccount>
+                    <relevance priority="all"/>
+                    <doc id="Z1348D0B571BDF7DC">
+                        <relevance priority="all"/>
+                        <saved-copy-url>
+                            https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1684251346&amp;tld=ru&amp;lang=ru&amp;la=1683950464&amp;text=yandex&amp;url=https%3A//music.yandex.ru/%3F%3D&amp;l10n=ru&amp;mime=html&amp;sign=fb0c788758c734e326f91cd9aa577fb9&amp;keyno=0
+                        </saved-copy-url>
+                        <url>
+                            https://music.yandex.ru/?=
+                        </url>
+                        <domain>
+                            music.yandex.ru
+                        </domain>
+                        <title>
+                            <hlword>
+                                Яндекс
+                            </hlword>
+                            Музыка — собираем музыку и подкасты для вас
+                        </title>
+                        <modtime>
+                            20220110T164325
+                        </modtime>
+                        <size>
+                            851
+                        </size>
+                        <charset>
+                            utf-8
+                        </charset>
+                        <mime-type>
+                            text/html
+                        </mime-type>
+                        <passages>
+                            <passage>
+                                Персональные рекомендации, подборки на любой случай, подкасты обо всём на свете и музыкальные новинки — с
+                                <hlword>
+                                    Яндекс
+                                </hlword>
+                                Музыкой всегда есть что послушать!
+                            </passage>
+                        </passages>
+                        <properties>
+                            <_PassagesType>
+                                0
+                            </_PassagesType>
+                            <lang>
+                                ru
+                            </lang>
+                        </properties>
+                    </doc>
+                </group>
+                <found priority="phrase">
+                    3136
+                </found>
+                <found priority="strict">
+                    3136
+                </found>
+                <found priority="all">
+                    3136
+                </found>
+                <found-docs priority="phrase">
+                    5326
+                </found-docs>
+                <found-docs priority="strict">
+                    5326
+                </found-docs>
+                <found-docs priority="all">
+                    5326
+                </found-docs>
+                <found-docs-human>
+                    нашёл 5 тыс. ответов
+                </found-docs-human>
+            </grouping>
+        </results>
+    </response>
+</yandexsearch>
